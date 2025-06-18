@@ -1,8 +1,0 @@
-streamlit
-transformers
-torch
-pandas
-matplotlib
-plotly
-rake-nltk
-wordcloud
